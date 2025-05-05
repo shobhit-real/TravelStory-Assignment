@@ -339,7 +339,7 @@ const textBlockStyle = {
   color: "#333",
   fontFamily: "Arial, sans-serif",
   fontSize: "16px",
-  backgroundColor: "white",
+  backgroundColor: "transparent",
   cursor: "move",
 };
 
