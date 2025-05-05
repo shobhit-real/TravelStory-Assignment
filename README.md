@@ -1,12 +1,10 @@
-# React + Vite
+# TravelStory
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TravelStory is an interactive web application where users can create a personalized travel journal by placing images and text on a full-screen canvas. Users can save their work and export it as downloadable PDF.
 
-Currently, two official plugins are available:
+## Features
+- **Interactive Canvas**: Users can drag and drop images, add editable text blocks, and arrange them freely.
+- **Text Styling**: Add and style text with options like bold, italic, underline, font size, and color.
+- **Export Options**: Save the journal as an image or as a downloadable PDF.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
