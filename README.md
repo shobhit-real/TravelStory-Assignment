@@ -7,4 +7,6 @@ TravelStory is an interactive web application where users can create a personali
 - **Text Styling**: Add and style text with options like bold, italic, underline, font size, and color.
 - **Export Options**: Save the journal as an image or as a downloadable PDF.
 
+**Hosted demo** : https://travel-story-assignment.netlify.app/
+
 
